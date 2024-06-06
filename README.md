@@ -1,6 +1,3 @@
-This is my readme.
-This is my readme.
-
 ## Project Description
 
 The `main.py` file is the main entry point for this project. It contains the core functionality and logic for the project.
@@ -9,7 +6,7 @@ The `main.py` file is the main entry point for this project. It contains the cor
 
 To use this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/PinsaraPerera/Bulk_document_generator.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
